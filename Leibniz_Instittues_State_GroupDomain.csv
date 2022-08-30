@@ -1,0 +1,46 @@
+Name;FederalState;clr;Domain;lat;lon;Address;Sub-domain;Data repository;RDM communication;Notes
+Academy for Territorial Development in the Leibniz Association (ARL);Lower Saxony;1;Section B - Economics, Social Sciences, Spatial Research;52.41205;9.73369;"Vahrenwalder Straße 247
+30179 Hannover";Ecology, Geography, Engeneering, Spatial planning;No;No;Similar research as IÖR
+Leibniz Centre for European Economic Research (ZEW);Baden-Wuerttemberg;2;Section B - Economics, Social Sciences, Spatial Research;49.48215;8.46591;"
+L7,1
+68161 Mannheim";;;YES;Data Center, NFDI KonsortSWD, Ssocial economical data, Manage Data Privacy well, Terms of Use for data usage.
+Leibniz Institute for the Social Sciences (GESIS);Baden-Wuerttemberg;2;Section B - Economics, Social Sciences, Spatial Research;49.48837;8.45777;"GESIS – Leibniz Institute for  the Social Sciences in Mannheim
+Street address: 
+B6, 4-5
+68159 Mannheim
+Postal address: 
+PO Box 122155
+68072 Mannheim
+Germany";;;YES;Survey Guidelines, RDM Section, Strong in social science
+Leibniz Institute for Economic Research at the University of Munich (ifo);Bavaria;3;Section B - Economics, Social Sciences, Spatial Research;48.15297;11.60522;"Poschingerstraße 5
+81679 München";;(Yes, Like IÖR Monitor, DICE) DB EBDC DB, Data avaiable upon request, Use Agrement;No REDM Section or info on Best Practices;DICE, EBDC, Not esplicitly RDM section in website
+Berlin Social Science Center (WZB);Berlin;4;Section B - Economics, Social Sciences, Spatial Research;52.50633;13.36509;"Reichpietschufer 50
+D-10785 Berlin
+Germany";;;YES;Esplicitly RDM section, Colaborate with Leibniz GESIS.
+German Institute for Economic Research Berlin (DIW);Berlin;4;Section B - Economics, Social Sciences, Spatial Research;52.51217;13.38864;"Mohrenstraße 58
+10117 Berlin";;Data Service Section, Indicators. RDC SOEP (Economy,Interview));Not RDM Section. ;Signed agreement
+Leibniz Institute for Research on Society and Space (IRS);Brandenburg;5;Section B - Economics, Social Sciences, Spatial Research;52.42773;13.75643;"Flakenstraße 29-31
+15537 Erkner / Berlin";;Scientific colleciton, Library;No RDM section ;
+German Institute for Global and Area Studies / Leibniz-Institut für Globale und Regionale Studien (GIGA);Hamburg;6;Section B - Economics, Social Sciences, Spatial Research;53.55698;9.9926;"Neuer Jungfernstieg 21
+20354 Hamburg";;GIGA Research DB, catalogue;No RDM section ;Data with DOI, and publishe don Dataverse.harvardedu or other various repositroies
+Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI);Hamburg;6;Section B - Economics, Social Sciences, Spatial Research;53.56561;9.98949;"Hans-Bredow-Institut
+Rothenbaumchaussee 36
+20148 Hamburg";;;;
+Leibniz Institute for Financial Research SAFE (SAFE);Hesse;7;Section B - Economics, Social Sciences, Spatial Research;50.12721;8.66549;"Theodor-W.-Adorno-Platz 3
+60323 Frankfurt am Main";;;;
+Peace Research Institute Frankfurt (HSFK);Hesse;7;Section B - Economics, Social Sciences, Spatial Research;50.10497;8.66458;"Baseler Straße 27 - 31
+60329 Frankfurt am Main";Politiy, Law, International conflicts;;;
+Leibniz Institute for Economic Research (RWI);North Rhine- Westphalia;8;Section B - Economics, Social Sciences, Spatial Research;51.44366;7.00837;"Hohenzollernstr. 1-3
+45128 Essen, Germany";Social, Education, Economy;FDR RUHR am RWI ;YES/NO;Provide Data and DOI, elong to the KonsortSWD NFDI, no esplictly RDM section
+Leibniz Institute for Regional Geography (IfL);Saxony;9;Section B - Economics, Social Sciences, Spatial Research;51.34676;12.47193;"Schongauerstraße 9
+04328 Leipzig";Geography, Cartography;Archive, Library;54.33868;Library, Archive Online Catalogue cartography, not esplicitly RDM section in website
+Leibniz Institute of Ecological Urban and Regional Development (IOER);Saxony;9;Section B - Economics, Social Sciences, Spatial Research;51.03115;13.74809;Weberplatz 1 01217 Dresden;Ecology, Geography, Engeneering, Spatial planning;;;
+Halle Institute for Economic Research – Member of the Leibniz Association (IWH);Saxony-Anhalt;10;Section B - Economics, Social Sciences, Spatial Research;51.48096;11.97162;" Halle
+Kleine Märkerstraße 8
+06108 Halle (Saale)";Economy;;;
+Leibniz Institute of Agricultural Development in Transition Economies (IAMO);Saxony-Anhalt;10;Section B - Economics, Social Sciences, Spatial Research;51.495159;11.93772;"Theodor-Lieser-Straße 2
+06120 Halle/Saale";Economy, Politic, Agriculture;NO;NO;
+Kiel Institute for the World Economy (IfW);Schleswig-Holstein;11;Section B - Economics, Social Sciences, Spatial Research;54.338879;10.15646;"Kiellinie 66
+24105 Kiel";Economy;NO;NO;
+Leibniz Information Centre for Economics (ZBW);Schleswig-Holstein;11;Section B - Economics, Social Sciences, Spatial Research;54.33868;10.15584;"Düsternbrooker Weg 120
+24105 Kiel";Economy;da|ra DOI registration for social and economic data;YES;Collaboration with GESIS, dataCIte
